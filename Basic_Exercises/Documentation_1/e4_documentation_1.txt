@@ -1,0 +1,5 @@
+Is there a method to reverse a string, for example turning 'hello' into 'olleh'?
+
+There is not. [::-1] is the best way to do this
+
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str

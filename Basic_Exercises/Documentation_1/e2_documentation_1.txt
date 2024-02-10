@@ -1,0 +1,7 @@
+Determine whether Python has a method to lowercase a string, for example 
+converting 'Aloha, World!' into 'aloha, world!.
+
+It does, and it is located here:
+
+https://docs.python.org/3/library/stdtypes.html#str.capitalize
+
